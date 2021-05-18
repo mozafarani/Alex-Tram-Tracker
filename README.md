@@ -29,4 +29,7 @@ An admin can:
 
 <img width="628" alt="image" src="https://user-images.githubusercontent.com/47674413/118688854-1a49da80-b80f-11eb-842e-ec20178ccd5f.png">
 
-3) Remove
+3) Remove User
+
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/47674413/118690280-94c72a00-b810-11eb-8a3d-eaeb305569bf.png">
+
