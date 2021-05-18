@@ -7,4 +7,12 @@ If you don't want to create an account, that's okay. There is a guest version in
 
 <img width="1272" alt="image" src="https://user-images.githubusercontent.com/47674413/118670524-5ffea700-b7ff-11eb-81f9-0bad449b8081.png">
 
+A user can: 
+
+1) Search for trains on a specific track:
+
+<img width="1273" alt="image" src="https://user-images.githubusercontent.com/47674413/118687543-d0142980-b80d-11eb-9c36-2bb89d5714b4.png">
+
+2) Buy multiple tickets to a particular station:
+
 
