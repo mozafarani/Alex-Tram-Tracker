@@ -29,7 +29,21 @@ An admin can:
 
 <img width="628" alt="image" src="https://user-images.githubusercontent.com/47674413/118688854-1a49da80-b80f-11eb-842e-ec20178ccd5f.png">
 
-3) Remove User
+3) Remove a user
 
 <img width="492" alt="image" src="https://user-images.githubusercontent.com/47674413/118690280-94c72a00-b810-11eb-8a3d-eaeb305569bf.png">
+
+4) Make a user an admin / create a new admin account:
+
+<img width="627" alt="image" src="https://user-images.githubusercontent.com/47674413/118690537-d5bf3e80-b810-11eb-95e7-4898890fa041.png">
+
+- 1) 
+<img width="630" alt="image" src="https://user-images.githubusercontent.com/47674413/118690717-fdaea200-b810-11eb-8666-dfdbea858af1.png">
+
+OR
+
+- 2) 
+<img width="627" alt="image" src="https://user-images.githubusercontent.com/47674413/118690777-1028db80-b811-11eb-95ed-7a79f5c99113.png">
+
+
 
