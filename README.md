@@ -9,10 +9,24 @@ If you don't want to create an account, that's okay. There is a guest version in
 
 A user can: 
 
-1) Search for trains on a specific track:
+1) Search for trains on a specific track: (NOTE: GUESTS CAN ONLY SEE THIS PAGE).
 
 <img width="1273" alt="image" src="https://user-images.githubusercontent.com/47674413/118687543-d0142980-b80d-11eb-9c36-2bb89d5714b4.png">
 
 2) Buy multiple tickets to a particular station:
 
+<img width="1268" alt="image" src="https://user-images.githubusercontent.com/47674413/118688098-68121300-b80e-11eb-8112-e323b96ce389.png">
 
+3) Check their balance / add money to their account
+
+<img width="633" alt="image" src="https://user-images.githubusercontent.com/47674413/118688438-b9ba9d80-b80e-11eb-81a7-eff79caa55db.png">
+<img width="313" alt="image" src="https://user-images.githubusercontent.com/47674413/118688493-c6d78c80-b80e-11eb-898f-1749daf58308.png">
+
+An admin can:
+
+1) Use all the user functionalities, and
+2) Change the location of a train (if accidents happened)
+
+<img width="628" alt="image" src="https://user-images.githubusercontent.com/47674413/118688854-1a49da80-b80f-11eb-842e-ec20178ccd5f.png">
+
+3) Remove
