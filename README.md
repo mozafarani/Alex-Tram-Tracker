@@ -5,6 +5,8 @@ This is app based on the tram system in Alexandria, Egypt.
 Introduction: 
 I built this app because the tram system in Alexandria is impossible to predict. So I thought of installing some location trackers in the trams, so people know when the tram is coming. In Alexandria, we waste about 50% of our day waiting due to transportation.
 
+App Documentation:
+
 First, you can login in with your username and password if you have one, or you could create a new account.
 If you don't want to create an account, that's okay. There is a guest version in the app, but it is limited to some features.
 
